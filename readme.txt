@@ -8,3 +8,4 @@ Git has a mutable index called stage.
 fghsfgsfdgsdfg
 gfhgfhfehdf
 fghsfghsfgs
+sdfadsfasfadsf
